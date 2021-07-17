@@ -1,1 +1,1 @@
-# Skyland
+Unity files for a game i was working on a couple of years ago. It was gonna be a 3rd person rts style game where you gather resources and build a base to defend against other players. The world generates procedurally based on a seed, you can place objects and interact with them, and the environment is destructable using the laser in the player's inventory. HORRIBLY optimized.
